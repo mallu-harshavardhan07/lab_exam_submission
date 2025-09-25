@@ -1,4 +1,4 @@
-Name: M.Harsha vardhan reddy
-Roll number : 2320030051 
+Name: TATVA TALASILA
+Roll number : 2320030426 
 Project: this is devops cicd lab practical exam
 
